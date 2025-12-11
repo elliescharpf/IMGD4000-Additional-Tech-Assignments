@@ -24,7 +24,7 @@ Footstep sounds are a small detail that make a huge difference in immersion. In 
   Then grab the green (beginning trim) or red (end trim) lines and pull them to either side of the footstep sound. Adjust the fade bars (white curved lines) so they’re just barely off the green and red trim bars:  
   ![Trim Lines](https://github.com/user-attachments/assets/9f900e2e-0f42-401e-85e1-31b405485e2d)  
 
-For this part, you really want to make sure there is minimal silence before and after the step sound. Otherwise, the sounds will be delayed since they start with silence. Also, make sure the footstep is loud enough—you can change the volume for each footstep in the **Details** panel under **Sound > Volume**. Footsteps should be short, punchy, and consistent. Editing ensures each sound is clear and doesn’t overpower other audio elements like dialogue or ambient effects.  
+For this part, you really want to make sure there is minimal silence before and after the step sound. Otherwise, the sounds will be delayed since they start with silence. Also, make sure the footstep is loud enough (you can change the volume for each footstep in the **Details** panel under **Sound > Volume**). Footsteps should be short, punchy, and consistent. Editing ensures each sound is clear and doesn’t overpower other audio elements like dialogue or ambient effects.  
 
 Repeat this process until you have 5–8 single‑step sounds. I named mine **ConcreteFootsteps‑00X**.
 
