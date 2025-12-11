@@ -13,9 +13,7 @@ Footstep sounds are a small detail that make a huge difference in immersion. In 
 
 ## Step 2: Edit Your Footstep Audio
 - After you have your sound file in the Content Browser, duplicate it either by the number of footsteps in the audio or about 5–8 times. These duplicates will be used to cut the audio into separate files, each containing the sound of a single step.  
-- Once you have all duplicate audio files, go to **Edit** in the top bar:  
-  ![Edit Menu](https://github.com/user-attachments/assets/803896dd-5501-4e91-b721-33cc19227485)  
-- Then go to **Plugins**:  
+- Once you have all duplicate audio files, go to **Edit** and then **Plugins** in the top bar:   
   ![Plugins](https://github.com/user-attachments/assets/e4b73c46-1f4d-4c12-83c5-1946c6d0cfa1)  
   Add the **Waveform Editor** and restart Unreal:  
   ![Waveform Editor](https://github.com/user-attachments/assets/c0b80743-1c79-4118-8bb0-992de174ba0e)  
