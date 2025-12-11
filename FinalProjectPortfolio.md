@@ -21,6 +21,6 @@ Future students should prioritize clear and consistent communication throughout 
 Another key lesson is to start small and iterate. Beginning with a manageable, polished core project and gradually expanding it is far more effective than attempting to build something large and complex from the start, only to struggle with unfinished or unrefined features.
 
 ## Version Control Experience
-We used **GitHub Desktop** and all had our own branches to work on. I found it relatively easy to use, especially if you’re constantly updating from `main` while other people are pushing to `main`. While Blueprint differences are not as clear as code differences, consistent commit messages and team communication helped us avoid merge disasters as best as we could.  
+We used GitHub Desktop and all had our own branches to work on. I found it relatively easy to use, especially if you’re constantly updating from `main` while other people are pushing to `main`. While Blueprint differences are not as clear as code differences, consistent commit messages and team communication helped us avoid merge disasters as best as we could.  
 
 This experience reinforced the importance of version control not just for code, but for collaborative design assets as well.
